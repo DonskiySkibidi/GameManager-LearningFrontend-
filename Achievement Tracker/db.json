@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "title": "Dota2",
+      "genre": "Moba",
+      "platform": "PC",
+      "rating": 0,
+      "review": "",
+      "imageUrl": "",
+      "hoursPlayed": 0,
+      "status": "backlog",
+      "id": "ge7Bocq9190"
+    },
+    {
+      "title": "Hoi4",
+      "genre": "Стратегия",
+      "platform": "PC",
+      "rating": 0,
+      "review": "",
+      "imageUrl": "",
+      "hoursPlayed": 0,
+      "status": "completed",
+      "id": "QyzfrALTPPI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
