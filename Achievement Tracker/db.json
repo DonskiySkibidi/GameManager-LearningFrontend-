@@ -4,11 +4,11 @@
       "title": "Dota2",
       "genre": "Moba",
       "platform": "PC",
-      "rating": 0,
+      "rating": 3.5,
       "review": "",
       "imageUrl": "",
-      "hoursPlayed": 0,
-      "status": "backlog",
+      "hoursPlayed": 100,
+      "status": "playing",
       "id": "ge7Bocq9190"
     },
     {
@@ -18,7 +18,7 @@
       "rating": 0,
       "review": "",
       "imageUrl": "",
-      "hoursPlayed": 0,
+      "hoursPlayed": 200,
       "status": "completed",
       "id": "QyzfrALTPPI"
     }
